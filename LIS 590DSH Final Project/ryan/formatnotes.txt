@@ -1,0 +1,27 @@
+David’s notes about json format
+
+JSON format
+
+id: story ID
+characters []  (I use "[]" to denote an array of values here)
+id: character Id
+g: character predicted gender (0 = unknown, 1=female, 2=male)
+NNPcount: count of total number of times character is used with a proper name
+names []
+c: count of observed name
+n: name
+agent []
+w: word
+i: token position in book
+patient []
+w: word
+i: token position in book
+poss []
+w: word
+i: token position in book
+mod []
+w: word
+i: token position in book
+speaking []
+w: tokenized quotation
+i: token position in book

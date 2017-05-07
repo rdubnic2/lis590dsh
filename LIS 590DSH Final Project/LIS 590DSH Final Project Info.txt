@@ -1,0 +1,53 @@
+LIS 590DSH
+Final Project
+
+DUE: Thursday, May 11
+
+Aiming for presentations on the last day of class (5 minutes)
+	- Can include 2 or 3 slides, but not a lot, since they add time
+	- Presentation is basically an update on the project progress, not a finished 		thing
+		- Projects are due a week or so later
+
+Can be a work in progress, or stage 1 of a larger project
+	- Presentations followed by Q&A, and the project is not graded yet
+
+A lot of people are posing a question about a dataset they're exploring
+	- ex: how do portrayals of smoking in fiction change over time, and compare to 		our historical perception of smoking?
+	- Bechdel is another good example of the type of deliverable we should aim for
+
+
+Data
+Trying to get data on literary characters--Ted can give a sample of characters
+	- Each character is json structure--dictionary that can be read into Python
+	- Keys: character name, book id, then words associated with them (verbs they did, were the object of, things they possessed or adjectives associated with them).
+	- sending all the characters would be pretty bulky. Could start with characters I request
+	- What number of characters needed for a successful classifier? Ted: around 50 if you're working with novels, so characters probably need more since there is less text.
+		- as many as 30 characters could do the training of the model
+		- Comparison might be interesting, characters with disabilities as compared to another set of characters.
+			- could choose something easy, such as men or women or age or 				class
+			- comparing them could become a topic of study--are they more 				easily identified, what do the models look like each
+
+Is it enough work to do without the extraction of words and characters. IDing characters with disabilities?
+
+Ted's set is a bunch of files which contain on each line, separated by '\n', a single json object, with a module in python
+	All HT data, all fiction--through 1999
+	Data has book id field, and can send a list of metadata with novel list and I could choose the novels
+		- Ted can send metadata list by early afternoon, and will check file size 		and see about how much can be practical.
+	Then could use names to detect the characters with disabilities
+	Compare them to other characters in the same novel?
+		Comparison least challenging is to compare to other characters in the same books
+
+Methods
+-  Build model for characters with disabilities, then see what you find
+	- Next make a model of men and women, with a matching size set of characters who are men or women, and see how gender is marked vs. disability
+
+
+GO WITH A CLASSIFIER, AND SEE IF THE TOP WORDS ASSOCIATED WITH THE CHARACTERS WITH DISABILITIES YIELD ANY INTERESTING TOPICS ON THEIR OWN
+
+Independent Study?
+Ted has a project in mind, and could set it up as a practicum, if it worked Ryan can look into the regulations. 
+
+Been working on tracing gender patterns of characterization across time in fiction. Would like to look at biography too. Since fiction shows gender get less marked, is this true in biography? Are references as part important in biographies as well? Really an ultimate question about relation between literature and biography.
+
+Consider this a plan! 
+

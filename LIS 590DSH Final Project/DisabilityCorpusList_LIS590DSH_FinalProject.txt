@@ -1,0 +1,33 @@
+inu.30000003130071	inu.30000003130071	2544502	(David Herbert), Lawrence, D. H.	Lawrence D. H	1959	1885	m		Lady Chatterley's lover / | $c: With an introd. by Mark Schorer.
+mdp.39015043002289	mdp.39015043002289	3450073	Trumbo, Dalton,	Dalton	1967	1905	m		Johnny got his gun / | $c: Dalton Trumbo.
+10117	uva.x000457847		BrontÃ«, Charlotte,		1850		f	V.1	Jane Eyre
+6479	uc2.ark+=13960=t88g8hr69		Hugo, Victor,		1888		f		Notre Dame de Paris
+mdp.39015008821251	mdp.39015008821251	123655	Donaldson, Stephen R.	Stephen R	1978	1938	m		The illearth war / | $c: Stephen R. Donaldson.
+pst.000022105387	pst.000022105387	7491873	Donaldson, Stephen R.	Stephen R	1980	1940	m		The wounded land / | $c: Stephen R. Donaldson.
+uc1.b4439246	uc1.b4439246	9517563	Donaldson, Stephen R.	Stephen R	1982	1942	m		The one tree / | $c: Stephen R. Donaldson.
+mdp.39015002311556	mdp.39015002311556	587708	Burnett, Frances Hodgson,	Frances Hodgson	1911		f		The secret garden
+mdp.39015040597794	mdp.39015040597794	1029947	Keyes, Daniel.	Daniel	1966	1926	m		Flowers for Algernon, | $c: by Daniel Keyes.
+mdp.39015062063501	mdp.39015062063501	4320557	Haddon, Mark.	Mark	2003	1963	m		The curious incident of the dog in the night-time / | $c: Mark Haddon.
+8469	nyp.33433074931118		BrontÃ«, Emily,		1848		f		Wuthering Heights
+mdp.39015054102655	mdp.39015054102655	2593368	Ondaatje, Michael,	Michael	1992	1952	m		The English patient : | a novel / | $c: by Michael Ondaatje.
+pst.000018252354	pst.000018252354	7056957	Nolan, Christopher,	Christopher	1988	1965	m		Under the eye of the clock : | the life story of Christopher Nolan / | $c: Preface by John Carey.
+mdp.39015002153180	mdp.39015002153180	281587	O'Connor, Flannery.	Flannery	1955	1915	f		A good man is hard to find : | and other stories / | $c: Flannery O'Connor.
+uc1.32106011264659	uc1.32106011264659	282392	Carver, Raymond,	Raymond	1983	1938	m		Cathedral : | stories / | $c: Raymond Carver.
+mdp.39015002260167	mdp.39015002260167	1029464	Steinbeck, John,	John	1937	1902	m		Of mice and men.
+pst.000044192167	pst.000044192167	7066044	McCullers, Carson,	Carson	1940	1917	f		The heart is a lonely hunter / | $c: [by] Carson McCullers.
+mdp.39015054067759	mdp.39015054067759	1949975	O'Brien, Tim,	Tim	1990	1950	m		The things they carried : | a work of fiction / | $c: by Tim O'Brien.
+mdp.39015046349141	mdp.39015046349141	388888	Faulkner, William,	William	1931	1897	m		The sound and the fury / | $c: [by] William Faulkner ; with an introduction by Richard Hughes.
+mdp.39015040081708	mdp.39015040081708	1548687	Dunn, Katherine.	Katherine	1989	1949	f		Geek love / | $c: Katherine Dunn.
+pst.000018729719	pst.000018729719	1427171	Plath, Sylvia.	Sylvia	1971	1931	f		The bell jar / | $c: Sylvia Plath ; biographical note by Lois Ames ; drawings by Sylvia Plath.
+uc1.32106010927215	uc1.32106010927215	631317	Kesey, Ken.	Ken	1962	1922	m		One flew over the cuckoo's nest, | a novel.
+uc1.b3462870	uc1.b3462870	6660002	Schine, Cathleen.	Cathleen	1983	1943	f		Alice in bed : | a novel / | $c: by Cathleen Schine.
+uc2.ark+=13960=t22b8w678	uc2.ark+=13960=t22b8w678	9259616	Gilman, Charlotte Perkins,	Charlotte Perkins	1911		f		The crux
+mdp.39015008102165	mdp.39015008102165	394226	Greenberg, Joanne.	Joanne	1970	1930	f		In this sign.
+mdp.39015028400326	mdp.39015028400326	2546620	Lott, Bret.	Bret	1991	1951	m		Jewel : | a novel / | $c: by Bret Lott.
+mdp.39015063339868	mdp.39015063339868	5120086	Berg, Elizabeth	Elizabeth	2006	1966	f		We are all welcome here : | a novel / | $c: Elizabeth Berg
+uc1.32106002122734	uc1.32106002122734	1113176	Lee, Harper.	Harper	1960	1920	m		To kill a mockingbird.
+mdp.39015000608102	mdp.39015000608102	382787	Anderson, Sherwood,	Sherwood	1919		m		Winesburg, Ohio;
+uc1.32106014098278	uc1.32106014098278	8325651	Welty, Eudora,	Eudora	1978	1909	f		The optimist's daughter / | $c: Eudora Welty.
+uc1.$b322793	uc1.$b322793	6547929	Bowen, Elizabeth,	Elizabeth	1929	1899	f		The last September, | $c: by Elizabeth Bowen.
+uc1.$b784307	uc1.$b784307	393891	Green, Henry,	Henry	1946	1905	m		Back; | a novel.
+mdp.39015029851667	mdp.39015029851667	2710118	Moore, Olive.	Olive	1992	1952	f		Collected writings / | $c: Olive Moore.
