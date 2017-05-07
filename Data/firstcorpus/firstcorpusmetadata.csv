@@ -1,0 +1,7 @@
+filename,author,other_authors,title,first_pub_date,genre,authorbirth,authordeath,authorgender,nationality
+DickinsonPoems.txt,"Dickinson, Emily",,"Poems by Emily Dickinson, Series One",1890,poetry,1830,1886,f,us
+AustenPride.txt,"Austen, Jane",,Pride and Prejudice,1813,fiction,1775,1817,f,uk
+ShelleyFrankenstein.txt,"Shelley, Mary Wollstonecraft",,"Frankenstein; or, the Modern Prometheus",1818,fiction,1797,1851,f,uk
+StokerDracula.txt,"Stoker, Bram",,Dracula,1897,fiction,1847,1912,m,uk
+EliotPrufrock.txt,"Eliot, Thomas Stearns",,"Prufrock, and Other Observations",1917,poetry,1888,1965,m,us
+WordsworthLyrical.txt,"Wordsworth, William","Coleridge, Samuel Taylor","Lyrical Ballads, with a Few Other Poems",1798,poetry,1770,1850,m,uk
